@@ -1,1 +1,2 @@
-
+DEMO_API_KEY=sk-demo-4242-NOT-A-REAL-KEY
+DEMO_DB_PASSWORD=demo-password-123
